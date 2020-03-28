@@ -1,55 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-      <title>EDA.FI</title>
-  <!-- Bootstrap styles -->
-    <link href="assets/css/bootstrap.css" rel="stylesheet"/>
-    <!-- Customize styles -->
-      
-      <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
-<link href="assets/font-awesome/css/font-awesome.css" rel="stylesheet">
-	
-	
-      <link href="style.css"rel="stylesheet"/>
-    <!-- font awesome styles -->
-	<link href="assets/font-awesome/css/font-awesome.css" rel="stylesheet">
-	
-  </head>
-<body>
-
-<!--
-Lower Header Section 
--->
-<div class="container">
-<div id="gototop"> </div>
-<header id="header">
-    
-<div class="row">
-	<div class="span4">
-	<h1>
-        <a class="logo" href="index.html"><span></span> 
-		<img src="logo1.png"alt="eda logo">
-	</a>
-	</h1>
-	</div>
-	<div class="span4">
-	<div class="offerNoteWrapper">
-	<h1 class="dotmark">
-	
-	</h1>
-	</div>
-	</div>
-	<div class="span4 alignR">
-	<p><br> <strong> Support (24/7) :  0800 3432  </strong><br><br></p>
-	<span class="btn btn-mini">[ 2 ] <span class="icon-shopping-cart\"></span></span>
-	<span class="btn btn-warning btn-mini">$</span>
-	<span class="btn btn-mini">&pound;</span>
-	<span class="btn btn-mini">&euro;</span>
-	</div>
-</div>
-</header>
-
-
 <div class="navbar">
 	  <div class="navbar-inner">
 		<div class="container">
@@ -60,8 +8,8 @@ Lower Header Section
 		  </a>
 		  <div class="nav-collapse">
 			<ul class="nav">
-			  <li class="active"><a href="retrieving.php">Home	</a></li>
-			  <li class=""><a href="retrieving.php">Sale</a></li>
+			  <li class="active"><a href="index.html">Home	</a></li>
+			  <li class=""><a href="list-view.html">Sale</a></li>
 			  <li class=""><a href="grid-view.html">Help</a></li>
 			  <li class=""><a href="three-col.html">Recommendations</a></li>
 			  <li class=""><a href="four-col.html">Gift Card</a></li>
@@ -105,6 +53,7 @@ Lower Header Section
 					<input type="checkbox"> Remember me
 					</label>
 					<button type="submit" class="shopBtn btn-block">Sign in</button>
+                    <button type="submit" class="shopBtn btn-block">Login</button>
 				  </div>
 				</form>
 				</div>
@@ -114,4 +63,3 @@ Lower Header Section
 		</div>
 	  </div>
 	</div>
-	
