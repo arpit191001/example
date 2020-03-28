@@ -64,6 +64,7 @@ Lower Header Section
 			  <li class=""><a href="retrieving.php">Sale</a></li>
 			  <li class=""><a href="grid-view.html">Help</a></li>
 			  <li class=""><a href="three-col.html">Recommendations</a></li>
+              <li class=""><a href="three-col.html">About US</a></li>
 			  <li class=""><a href="four-col.html">Gift Card</a></li>
 			</ul>
               <form action="#" class="navbar-search pull-left">
